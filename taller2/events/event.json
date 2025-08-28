@@ -1,7 +1,11 @@
 {
-  "name": "Hector",
   
-  "body": "{\"message\": \"hello world\"}",
+  "calculadora":
+  {
+    "numero1": 5,
+    "numero2": 10,
+    "operacion": "suma, resta, multiplicacion, division"
+  },
   "resource": "/hello",
   "path": "/hello",
   "httpMethod": "GET",
